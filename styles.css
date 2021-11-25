@@ -59,6 +59,16 @@ ul {
     margin-left: 20px;
 }
 
+.menu-btn {
+    position: absolute;
+    cursor: pointer;
+    top: 32px;
+    right: 40px;
+    z-index: 2;
+    font-size: 1.5rem;
+    display: none;
+}
+
 /*showcase*/
 .showcase {
     width: 100%;
@@ -178,6 +188,36 @@ ul {
 }
 
 @media (max-width: 700px) {
+
+    .menu-btn {
+        display: block;
+    }
+
+    .nav-main ul.nav-menu {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: #035d6d8f;
+        height: 100%;
+        padding: 30px;
+        transform: translateX(-400px);
+        transition: transform .5s ease-in-out;
+    }
+
+    .nav-main ul.nav-menu.show {
+        transform: translateX(-20px);
+    }
+
+    .nav-main ul.nav-menu li {
+        padding: 18px;
+        font-size: 18px;
+    }
+
+    .nav-main ul.nav-menu-right {
+        margin-right: 50px;
+    }
+
     .news-cards {
         grid-template-columns: repeat(2, 1fr);
     }
