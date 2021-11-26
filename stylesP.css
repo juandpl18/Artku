@@ -82,7 +82,108 @@
      justify-content: flex-end;
      font-size: 3rem;
  }
+  /*showcase3*/
+  .showcase3 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//banerp2.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+    color: #262626;
+}
+
+  /*showcase4*/
+  .showcase4 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//banerc.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+}
+
+  /*showcase5*/
+  .showcase5 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//banermc.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+}
+
+  /*showcase6*/
+  .showcase6 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//banerl.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+    color: #000000;
+}
+
+  /*showcase7*/
+  .showcase7 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//caballete.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+}
+
+  /*showcase8*/
+  .showcase8 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//banerac.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+    color: #000000;
+}
  
+  /*showcase9*/
+  .showcase9 {
+    width: 100%;
+    height: 550px;
+    background: url('./img//bmas.jpg')no-repeat center center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3rem;
+}
+ 
+
  .btm {
      cursor: pointer;
      display: inline-block;
