@@ -68,6 +68,101 @@
      font-size: 1.5rem;
      display: none;
  }
+
+ .vg {
+     margin-top: 10px;
+     font-size: 1.5rem;
+     text-align: center;
+    
+ }
+
+ .vh {
+     width: 90%;
+     height: 450px;
+     margin-top: 5px;
+     margin: 10px 40px;
+     background: url('/img/Van_Gogh_banner.png') no-repeat center center/cover;
+
+ }
+ .vvg a {
+    border-bottom: 3px solid #ffffff;
+ }
+
+ .sd {
+     margin-top: 15px;
+     font-size: 1.5rem;
+     text-align: center;
+ }
+
+ .sld {
+     width: 90%;
+     height: 450px;
+     margin-top: 10px;
+     margin: 10px 40px;
+     background: url('/img/salvador_dali.jpg') no-repeat center center/cover;
+ }
+ .sd1 a {
+    border-bottom: 3px solid #ffffff;
+ }
+
+ .pc {
+     margin-top: 15px;
+     font-size: 1.5rem;
+     text-align: center;
+ }
+
+ .picasso {
+     width: 90%;
+     height: 450px;
+     margin: 10px 40px;
+     background: url('/img/pablo\ picasso.jpg') no-repeat center center/cover;
+ }
+ .pc1 a {
+    border-bottom: 3px solid #ffffff;
+ }
+ .dv {
+    margin-top: 15px;
+    font-size: 1.5rem;
+    text-align: center;
+ }
+ .ldv {
+    width: 90%;
+    height: 450px;
+    margin: 10px 40px;
+    background: url('/img/Da_Vinci.jpg') no-repeat center center/cover;
+ }
+ .dv1 a {
+    border-bottom: 3px solid #ffffff;
+ }
+ .mig {
+    margin-top: 15px;
+    font-size: 1.5rem;
+    text-align: center;
+ }
+ .ma {
+    width: 90%;
+    height: 450px;
+    margin: 10px 40px;
+    background: url('/img/Miguel_Angel.jpg') no-repeat center center/cover;
+ }
+ .ma1 a {
+    border-bottom: 3px solid #ffffff;
+     
+ }
+ .fr {
+    margin-top: 15px;
+    font-size: 1.5rem;
+    text-align: center;
+ }
+ .frc {
+    width: 90%;
+    height: 450px;
+    margin: 10px 40px;
+    background: url('/img/frida.jpg') no-repeat center center/cover;
+ }
+ .frc1 a {
+    border-bottom: 3px solid #ffffff;
+ }
  
  /*showcase2*/
  .showcase2 {
